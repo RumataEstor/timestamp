@@ -1,0 +1,11 @@
+{application, timestamp,
+ [
+  {description, "Timestamp operations"},
+  {vsn, "0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
